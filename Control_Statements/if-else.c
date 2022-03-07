@@ -5,11 +5,13 @@ int main()
     printf("Enter your age");
     scanf("%d", &age);
     printf("You have entered %d as your age\n", age);
-    if (age<=18) {
+    if (age>=18) {
         printf("You can vote!");
     }
     else {
         printf("You cannot vote!");
     }
+
+    return 0;
 
 }
