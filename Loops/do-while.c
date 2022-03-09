@@ -16,9 +16,24 @@ int main()
 
     do
     {
-        printf("%d", i);
+        printf("%d\n", i);
         i = i+1;
     } while(i<num);
 
     return 0; 
 }
+
+
+/* Output:
+If we enter the number 10, then it will print like:
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+*/
