@@ -9,4 +9,10 @@
 
  * While loop
 
- * For loop
+ * For loop:
+ 
+   => The for loop is used to iterate the statements or a part of the program several times.
+
+   => It is used to traverse the data structure like the arrays and linked list.
+
+   => It has a different syntax than do while and while loop.
