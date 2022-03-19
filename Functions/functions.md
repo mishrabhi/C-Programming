@@ -20,3 +20,7 @@
 * A function is defined to get some task done.
 
 * A function is called in order to be used.
+
+
+
+* In C programming lanuage we can call the function in two different ways- call by reference or call by value.We can see example of this in problems folder.
