@@ -24,3 +24,25 @@ int main()
 abhishek
 
 */
+
+
+
+//String Functions:
+
+#include<stdio.h>
+
+int main()
+{
+   char s1[]= "Abhishek";
+   char s2[]= "Raja";
+   puts(strcat(s1,s2));       //AbhishekRaja
+   printf("The length of s1 is %d\n", strlen(s1));   // 8
+   printf("The reversed string s1 is: ");
+   puts(strrev(s1));       // kehsihbA
+   
+
+
+
+   return 0;
+
+}
