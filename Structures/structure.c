@@ -1,4 +1,5 @@
 # include<stdio.h>
+# include<string.h>
 
 struct Student
 {
@@ -10,7 +11,7 @@ struct Student
 
 int main()
 {
-    struct Student harry, ravi, om;
+    struct Student harry, ravi, om;        //here structure in local variable
     harry.id = 1;
     ravi.id = 2;
     om.id = 3;
